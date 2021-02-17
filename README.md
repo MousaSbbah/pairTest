@@ -1,6 +1,7 @@
 # pairTest
 
-# names of the Driver are : Mousa Sbbah
 
- # Navigator : Marwan Reyad Al-Khawaldeh
 
+ # Navigator : Mousa sabah 
+
+# names of the Drivers are : Marwan Reyad Al-Khawaldeh
